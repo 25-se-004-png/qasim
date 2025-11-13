@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8" />
+
+<title>Profile-Your Name</title>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Your Full Name</h1>
+
+</header>
+
+<main>
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<p>Write a short introduction here.</p>
+
+</section>
+
+<section id="skills">
+
+<h2>Skills</h2>
+
+<ul>
+
+<li>Skill 1</li>
+
+<li>Skill 2</li>
+
+</ul>
+
+</section>
+
+<section id="education">
+
+<h2>Education</h2>
+
+<ol>
+
+<li>Degree Year</li>
+
+</ol>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email: <a href="mailto:you@example.com">you@example.com</a></p>
+
+</section>
+
+</main>
+
+<footer>
+
+<p>&copy; 2025 Your Name</p>
+
+</footer>
+
+</body>
+
+</html>
